@@ -14,7 +14,7 @@ namespace advent_of_code;
             First_And_Last_Number();
             Console.WriteLine("Day one answer is: "+sum);
         }
-        public string[] Load_Input()
+        public void Load_Input()
         {
             
             try
@@ -26,7 +26,6 @@ namespace advent_of_code;
                 Console.WriteLine("This file could not be read: "+e.Message);
                 file_Stream=["Not read"];
             }
-            return file_Stream;
         }
         public void Sum(int number)
         {
