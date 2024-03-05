@@ -8,6 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = advent_of_code
-build_property.ProjectDir = C:\Users\bilin\Desktop\projekty\advent_of_code\advent-of-code\
+build_property.ProjectDir = C:\Users\bilin\Documents\Szymon\projects\advent-of-code\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\bilin\\Desktop\\projekty\\advent_of_code\\advent-of-code\\advent-of-code.csproj": {}
+    "C:\\Users\\bilin\\Documents\\Szymon\\projects\\advent-of-code\\advent-of-code.csproj": {}
   },
   "projects": {
-    "C:\\Users\\bilin\\Desktop\\projekty\\advent_of_code\\advent-of-code\\advent-of-code.csproj": {
+    "C:\\Users\\bilin\\Documents\\Szymon\\projects\\advent-of-code\\advent-of-code.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\bilin\\Desktop\\projekty\\advent_of_code\\advent-of-code\\advent-of-code.csproj",
+        "projectUniqueName": "C:\\Users\\bilin\\Documents\\Szymon\\projects\\advent-of-code\\advent-of-code.csproj",
         "projectName": "advent-of-code",
-        "projectPath": "C:\\Users\\bilin\\Desktop\\projekty\\advent_of_code\\advent-of-code\\advent-of-code.csproj",
+        "projectPath": "C:\\Users\\bilin\\Documents\\Szymon\\projects\\advent-of-code\\advent-of-code.csproj",
         "packagesPath": "C:\\Users\\bilin\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\bilin\\Desktop\\projekty\\advent_of_code\\advent-of-code\\obj\\",
+        "outputPath": "C:\\Users\\bilin\\Documents\\Szymon\\projects\\advent-of-code\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\bilin\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -20,6 +20,7 @@
           "net8.0"
         ],
         "sources": {
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -32,6 +33,11 @@
           "warnAsError": [
             "NU1605"
           ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
         }
       },
       "frameworks": {
@@ -53,7 +59,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.201/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
